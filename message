@@ -1,0 +1,18 @@
+{
+  "code": 4001000,
+  "data": {
+    "status": "failure",
+    "request_id": "f621ba07-9c65-422f-9243-96551237a6ec"
+  },
+  "errors": {
+    "0": {
+      "code": "invalid_parameter_exception",
+      "detail": {
+        "reason": "Invalid authentication key."
+      },
+      "message": "Input parameter violates a constraint."
+    }
+  },
+  "message": "Document is invalid",
+  "success": false
+}
